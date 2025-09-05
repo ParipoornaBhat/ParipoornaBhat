@@ -1,35 +1,32 @@
-<!-- PROFILE README for Paripoorna Bhat -->
 <h1 align="center">Hi 👋, I'm Paripoorna Bhat</h1>
 <h3 align="center">B.Tech • 3rd Year @ NMAM Institute of Technology, Nitte — Full-stack student & competitive programmer</h3>
 
 <p align="center">
   <a href="https://github.com/ParipoornaBhat">
-    <img src="https://img.shields.io/badge/GitHub-@ParipoornaBhat-181717?style=for-the-badge&logo=github" alt="github-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="github-badge" style="border-radius:8px;" />
   </a>
   <a href="https://www.linkedin.com/in/paripoorna-bhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="linkedin-badge" style="border-radius:8px;" />
   </a>
   <a href="https://www.instagram.com/paripoorna_/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="instagram-badge" style="border-radius:8px;" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ParipoornaBhat&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="github-stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParipoornaBhat&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top-langs"/>
 </div>
 
 <br>
 
-<img align="right" height="160" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding-gif" />
+<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlxeHc5bG5zMm8zaGhlMW55NDZkd29mNTBoNXN0dHdrNjc1ZDY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="coding-gif" />
 
 ## About me
 - 🎓 B.Tech — 3rd Year, NMAM Institute of Technology (Nitte).
 - 💻 Started with **MERN** + HTML/CSS/JS. Now building with **TypeScript**, **T3 Stack**, **Next.js**, and modern web tooling.
-- 🧠 Competitive programming with **C++** (primary for DSA). Basics in **Python** and **Java**.
 - 🔍 I enjoy building **web scrapers**, **productivity tools**, and systems that solve real manufacturing/clinic problems.
 - ⚙️ Currently: full-stack work, authorization & role-management, and integrating gamified features for club platforms.
 
@@ -59,36 +56,32 @@
 ---
 
 ## What I'm building / notable projects
-> Quick highlights — pin these repos on your profile to showcase them.
-
-- **Web Scrapers** — a set of scrapers I developed for extracting structured data from dynamic sites (batches, retries, progress tracking).  
+- **Web Scrapers** — scrapers for structured data from dynamic sites (batches, retries, progress tracking).  
   *Skills:* Puppeteer, batching, CSV/Excel export, error handling.
 
-- **E-commerce + Manufacturing Workflow** (for *Dynamic Packaging Pvt. Ltd, Tumkur*) — an order intake & process tracking system for flexible plastic bags manufacturing.  
+- **E-commerce + Manufacturing Workflow** (Dynamic Packaging Pvt. Ltd, Tumkur) — order intake & process tracking system for flexible plastic bags.  
   *Focus:* forms with image uploads, automating order intake, Cloudinary integrations, Prisma backend.
 
-- **Clinic Patient History Management** — Hackloop college project for managing patient history, records, and quick lookups.  
+- **Clinic Patient History Management** — Hackloop project for managing patient history, records, and quick lookups.  
   *Focus:* role-based access, protected APIs, CRUD with audit trails.
 
-- **FiniteLoop Club (FLC)** — core developer for our college coding club:  
-  - Repo: [finite-loop-club-nmamit](https://github.com/finite-loop-club-nmamit)  
+- **FiniteLoop Club (FLC)** — core developer for college coding club:  
+  - Organisation: [finite-loop-club-nmamit](https://github.com/finite-loop-club-nmamit)  
   - Contributions: Dashboard integration, role & permission APIs, gamification system for points/achievements.
-
-> Tip: You can pin the exact repos you want to highlight on your GitHub profile for immediate visibility.
 
 ---
 
 ## Open Source & Collaboration
-- I enjoy contributing to club projects and building tools that help teams scale (dashboards, permissions, gamification).
-- Always open to collabs: web scraping tools, Next.js + T3 projects, automation, or competitive programming practice platforms.
+- I contribute to projects within my college club and beyond.  
+- Open to collaborations occasionally—especially in areas like web scraping, Next.js + T3 stack projects, and automation.  
 
----
+## How I Work
+- Prefer **TypeScript** for both front-end and back-end because of type safety.  
+- Backend: Node.js + Express or Next.js API routes; ORM: **Prisma** for most new projects.  
+- Frontend: Next.js (T3 stack) or React; sometimes EJS for quick prototypes.  
+- Deployment: GitHub → Heroku / Vercel depending on the project type.  
 
-## How I work
-- Prefer **TypeScript** for front-end and back-end type safety.
-- Backend: Node.js + Express or Next.js API routes; ORM: **Prisma** for new projects.
-- Frontend: Next.js (T3 stack) or classic React, EJS for quick prototypes.
-- Deployment: GitHub → Heroku / Vercel depending on app type.
+💻 Yes, I do **"vibe coding"** most of the time—going with the flow—but always with a clear understanding of what I want the AI/code to build.  
 
 ---
 
@@ -99,17 +92,18 @@
 
 ---
 
-### Fun / Misc
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake" />
+### Extras
 
----
+<div align="center">
 
-If you'd like, I can:
-- Add direct repo links for each project (I can infer repo names or you can paste them).
-- Swap GIFs or badges (pick a color/theme).
-- Generate a short résumé-style README variant (for recruiters) or a minimal one for students.
+  <!-- Trophies -->
 
-Would you like me to:
-1. Insert specific repo links for those projects (if you provide names), **or**
-2. Auto-guess likely repo names and include placeholders now?
+  <!-- Streak -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ParipoornaBhat&theme=dracula&hide_border=true" alt="streak-stats"/>
+  </a>
+
+
+</div>
+
 
