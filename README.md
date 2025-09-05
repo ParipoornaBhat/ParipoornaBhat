@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paripoorna Bhat</h1>
-<h3 align="center">B.Tech • 3rd Year @ NMAM Institute of Technology, Nitte — Full-stack student & competitive programmer</h3>
+<h3 align="center">B.Tech • 3rd Year @ NMAM Institute of Technology, Nitte — Full-stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ParipoornaBhat">
