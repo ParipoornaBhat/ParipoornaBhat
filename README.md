@@ -15,10 +15,10 @@
 
 ---
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParipoornaBhat&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="github-stats"/>
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ParipoornaBhat&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="github-stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParipoornaBhat&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top-langs"/>
-</div> -->
+</div> 
 
 <br>
 
